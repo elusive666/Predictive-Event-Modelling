@@ -1,4 +1,4 @@
-# Capstone Project
+# Predictive Event Modelling & Recommendation Engine
 ### Predictive Event Modelling - Propensity to watch a video in the next 2 days
 ### Recommendation Engine - Recommending 3 new videos to a user, based on the videos he/she has watched
 
